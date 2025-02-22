@@ -1,7 +1,7 @@
 
 const Post = () => {
   return (
-    <div>Post Page</div>
+    <div>Postct Page</div>
   )
 }
 
